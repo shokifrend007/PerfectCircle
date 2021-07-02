@@ -6,7 +6,7 @@ A bot that draw a perfect circle on https://vole.wtf/perfect-circle/
 First install pyautogui:  
 `pip3 install pyautogui`
 
-Next, open your browser, so that it is completely visible.  
+Next, open your browser on [the site](https://vole.wtf/perfect-circle/), so that it is completely visible.  
 (2nd screen works fine)
 
 Finally, run the programm.  
