@@ -3,7 +3,6 @@ import math
 import sys
 
 print("PerfectCircle by shokifrend77")
-print("under WTFPL license")
 
 # this is the size of the circle in pixels
 radius = 300
